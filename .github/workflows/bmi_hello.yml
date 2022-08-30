@@ -1,4 +1,3 @@
-# name of workflow
 name: BMI_Hello
 
 # trigger workflow on push to master i.e. a commit is pushed to a branch, or pull request with master as base
