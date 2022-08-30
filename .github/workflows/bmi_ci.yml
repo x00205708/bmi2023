@@ -1,4 +1,4 @@
-name: BMI_CI                                        # "BMI_CI" workflow
+name: BMI_CI                                        # "BMI_CI" workflow, name is optional
 
 env:
   AZURE_WEBAPP_NAME: gc-bmicalculator-ga            # set this to your application's name
