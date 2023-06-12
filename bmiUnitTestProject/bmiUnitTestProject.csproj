@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\bmi2021\bmi2022.csproj" />
+    <ProjectReference Include="..\bmi2021\bmi2023.csproj" />
   </ItemGroup>
 
 </Project>

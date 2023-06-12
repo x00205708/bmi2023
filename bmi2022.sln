@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bmi2022", "bmi2021\bmi2022.csproj", "{9505DDA3-C359-4DB0-82E3-5762134515FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bmi2023", "bmi2021\bmi2023.csproj", "{9505DDA3-C359-4DB0-82E3-5762134515FB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bmiUnitTestProject", "bmiUnitTestProject\bmiUnitTestProject.csproj", "{83A5A32D-2285-4FF5-8EBE-FAC5187E43A5}"
 EndProject
